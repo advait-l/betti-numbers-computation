@@ -8,7 +8,7 @@
 ### To run the `betti-visit.py` file
 
 ```sh
-$ /usr/local/visit/bin/visit -nowin -cli -s /home/advait/projects/bettinumbers/betti-visit.py
+$ /usr/local/visit/bin/visit -nowin -cli -s betti-visit.py
 ```
 
 ### To run the `betti-gudhi.py` file
